@@ -1,0 +1,19 @@
+{
+  "name": "eslint",
+  "description": "eslint",
+  "version": "0.1.0",
+  "author": "Sergei MILITER Tarasov <militer@htmlcssjs.pro> (https://htmlcssjs.pro)",
+  "license": "MIT",
+  "browserslist": [
+    "defaults"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.16.7",
+    "@babel/core": "^7.16.7",
+    "@babel/eslint-parser": "^7.16.5",
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "eslint": "^8.6.0"
+  },
+  "dependencies": {}
+}
